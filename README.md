@@ -67,7 +67,7 @@ Select `Natural Text Editing` and confirm the dialog to `remove` all previous se
 
 ####  Font
 Go to `Preferences...` -> `Profiles` -> `Text`
-Select `Meslo LG M DZ for Powerline` (or that one you installed [previous](#download%20and%20install%20font)) as Font and if you like increase the Font size to e.g. 14pt
+Select `Meslo LG M DZ for Powerline` (or that one you installed [previous](#download-and-install-font)) as Font and if you like increase the Font size to e.g. 14pt
 
 ![Preferences Profiles Text](assets/2021-09-20-iterm2-preferences-profiles-text.png)
 
@@ -80,7 +80,7 @@ Select `Natural Text Editing` and confirm the dialog to `remove` all previous se
 ![Preferences Profiles Keys](assets/2021-09-20-iterm2-preferences-profiles-keys.png)
 
 ##  Configure Zsh
-After [[#Install oh-my-zsh]] [installation (done in next step)](#install_oh-my-zsh) of oh-my-zsh your `~/.zshrc` has been created or modified.
+After [[#Install oh-my-zsh]] [installation (done in next step)](#install-oh-my-zsh) of oh-my-zsh your `~/.zshrc` has been created or modified.
 You can edit the file like
 
 ```
