@@ -1,4 +1,4 @@
-# My Iterm2 / Zsh setup
+# My iTerm2 / Zsh setup
 
 Here's another of the ten thousand tutorials for beautifying the terminal experience on your Mac.
 
