@@ -23,7 +23,7 @@ The Zsh theme `agnoster` https://github.com/agnoster/agnoster-zsh-theme requires
 
 So here are 3 Fonts you might consider (one is enough to install).
 
-The prefered way to install these fonts is using brew
+The preferred way to install these fonts is using brew
 ```
 brew install font-meslo-for-powerline
 ```
@@ -34,6 +34,7 @@ or
 brew install font-fira-mono-for-powerline
 ```
 
+Alternatively, you can download and install them individually, but without brew support (update/deinstall):
 
 ####  Meslo with Dotted Zero
 
