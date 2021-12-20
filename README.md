@@ -23,6 +23,18 @@ The Zsh theme `agnoster` https://github.com/agnoster/agnoster-zsh-theme requires
 
 So here are 3 Fonts you might consider (one is enough to install).
 
+The prefered way to install these fonts is using brew
+```
+brew install font-meslo-for-powerline
+```
+
+or
+
+```
+brew install font-fira-mono-for-powerline
+```
+
+
 ####  Meslo with Dotted Zero
 
 As the name says, with a dot in the zero.
@@ -57,26 +69,25 @@ cd ~/Downloads && {
 
 ###  Configure Color, Font and Keys in iTerm2
 ####  Color Scheme
-Go to `Preferences...` -> `Profiles` -> `Colors`
-Press `Color Presets...`
-Select `Import...`, select the downloaded 'SolarizedDark-Patched.itermcolors' file and confirm with `Open`
-Press `Color Presets...` again
-Select `SolarizedDark-Patched`
-Select `Natural Text Editing` and confirm the dialog to `remove` all previous set keys
+- Go to `Preferences...` -> `Profiles` -> `Colors`
+- Press `Color Presets...`
+- Select `Import...`, select the downloaded 'SolarizedDark-Patched.itermcolors' file and confirm with `Open`
+- Press `Color Presets...` again
+- Select `SolarizedDark-Patched`
 ![Preferences Profiles Colors](assets/2021-09-20-iterm2-preferences-profiles-colors.png)
 
 ####  Font
-Go to `Preferences...` -> `Profiles` -> `Text`
-Select `Meslo LG M DZ for Powerline` (or that one you installed [previous](#download-and-install-font)) as Font and if you like increase the Font size to e.g. 14pt
+- Go to `Preferences...` -> `Profiles` -> `Text`
+- Select `Meslo LG M DZ for Powerline` (or that one you installed [previous](#download-and-install-font)) as Font and if you like increase the Font size to e.g. 14pt
 
 ![Preferences Profiles Text](assets/2021-09-20-iterm2-preferences-profiles-text.png)
 
 ####  Keys (navigation with cursor etc.)
 To navigate with your cursors resp. with option + cursor to jump the words in your terminal session:
 
-Go to `Preferences...` -> `Profiles` -> `Keys` (not Preferences... > Keys)
-Press `Presets...`
-Select `Natural Text Editing` and confirm the dialog to `remove` all previous set keys
+- Go to `Preferences...` -> `Profiles` -> `Keys` (not Preferences... > Keys)
+- Press `Presets...`
+- Select `Natural Text Editing` and confirm the dialog to `remove` all previous set keys
 ![Preferences Profiles Keys](assets/2021-09-20-iterm2-preferences-profiles-keys.png)
 
 ##  Configure Zsh
