@@ -24,6 +24,13 @@ The Zsh theme `agnoster` https://github.com/agnoster/agnoster-zsh-theme requires
 So here are 3 Fonts you might consider (one is enough to install).
 
 The preferred way to install these fonts is using brew
+first add the tap for cask-fonts wiht
+```
+brew tap homebrew/cask-fonts
+```
+
+then install the font family
+
 ```
 brew install font-meslo-for-powerline
 ```
@@ -92,7 +99,7 @@ To navigate with your cursors resp. with option + cursor to jump the words in yo
 ![Preferences Profiles Keys](assets/2021-09-20-iterm2-preferences-profiles-keys.png)
 
 ##  Configure Zsh
-After [[#Install oh-my-zsh]] [installation (done in next step)](#install-oh-my-zsh) of oh-my-zsh your `~/.zshrc` has been created or modified.
+After [installation of oh-my-zsh (done in next step)](#install-oh-my-zsh) your `~/.zshrc` has been created or modified.
 You can edit the file like
 
 ```
